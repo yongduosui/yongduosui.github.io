@@ -1,3 +1,4 @@
+<<<<<<< HEAD:_posts/2019-12-04-Adversarial_Chapter1.md
 
 
 
@@ -8,14 +9,25 @@
 layout:     post   				    # 使用的布局（不需要改）
 title:      对抗攻击学习（一） 				# 标题 
 subtitle:   定义和基本概念 #副标题
+=======
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      对抗攻击学习（一） 				# 标题 
+subtitle:   定义与基本概念 #副标题
+>>>>>>> 3cd9f0e4c27752b919c79a6819fb80b76164905b:_posts/2019-12-04-Adversarial_Chapter1.md
 date:       2019-12-04 				# 时间
 author:     SYD 						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
+<<<<<<< HEAD:_posts/2019-12-04-Adversarial_Chapter1.md
     - adversarial and attack
 ---
 
+=======
+    - Adversarial
+---
+>>>>>>> 3cd9f0e4c27752b919c79a6819fb80b76164905b:_posts/2019-12-04-Adversarial_Chapter1.md
 # 对抗攻击学习（一）定义和基本概念
 
 ## 1. 对抗样本
